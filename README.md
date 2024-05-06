@@ -1,4 +1,5 @@
-# Ex.No:1a  			Study of Socket Programming
+# Ex.No:1a  			
+Study of Socket Programming
 
 ## Aim: 
 To perform a study on Socket Programming
@@ -88,20 +89,15 @@ while True:
 ```
 
 
-
 ## OUTPUT:
 
 CLIENT:
-
-![image](https://github.com/salinianbzhgan/SocketStudy/assets/145742862/cc0f6c43-492c-45f1-8bf9-dc2a9c0a7a44)
-
-
+![image](https://github.com/salinianbzhgan/SocketStudy/assets/145742862/af8691ee-3f3c-4a03-a435-f6e24e607bd8)
 
 SERVER:
 
-
-![image](https://github.com/salinianbzhgan/SocketStudy/assets/145742862/f39f089f-af7f-4a61-81d3-3e5063b66c7d)
+![image](https://github.com/salinianbzhgan/SocketStudy/assets/145742862/e1b694f3-043c-43ac-99d7-723b4d199682)
 
 
 ## Result:
-
+Thus the study of Socket Programming Completed Successfully
