@@ -92,6 +92,7 @@ while True:
 ## OUTPUT:
 
 CLIENT:
+
 ![image](https://github.com/salinianbzhgan/SocketStudy/assets/145742862/af8691ee-3f3c-4a03-a435-f6e24e607bd8)
 
 SERVER:
